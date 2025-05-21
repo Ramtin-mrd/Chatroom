@@ -23,12 +23,15 @@ A simple encrypted chat system using Python sockets and AES encryption. Supports
 
 ```bash
 pip install pycryptodome
+```
 
 ## How to use :
 #Run Server :
 ```bash
 python3 server.py
+```
 
 #Run Client :
 ```bash
 python3 client.py
+```
