@@ -1,0 +1,17 @@
+key.key
+
+requirements.txt
+
+server.log 
+
+chat_history.txt
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+Thumbs.db
+
+.myenv
