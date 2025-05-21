@@ -26,12 +26,12 @@ pip install pycryptodome
 ```
 
 ## How to use :
-#Run Server :
+**Run Server** :
 ```bash
 python3 server.py
 ```
 
-#Run Client :
+**Run Client** :
 ```bash
 python3 client.py
 ```
